@@ -1,0 +1,11 @@
+1623386403948	geckodriver	INFO	Listening on 127.0.0.1:23678
+1623386404976	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "0" "-foreground" "-no-remote" "-profile" "C:\\Users\\Abhay\\AppData\\Local\\Temp\\rust_mozprofile0VuJ8S"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+1623386407890	Marionette	INFO	Marionette enabled
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Abhay\\AppData\\Local\\Temp\\rust_mozprofile0VuJ8S\\search.json.mozlz4", (void 0)))
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32 v=
+DevTools listening on ws://localhost:60104/devtools/browser/c25ec3d8-0640-492e-b990-3bf2e9ba7adc
+1623386422630	Marionette	INFO	Listening on port 60077
+1623386423306	Marionette	WARN	TLS certificate errors will be ignored for this session
